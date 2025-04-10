@@ -10,7 +10,7 @@ Built with:
 Set Up Your Environment:
 -  Make sure Python 3.x is installed. Then, install the required libraries:
   pip install pandas scikit-learn flask matplotlib
-  commands:
+commands:
      python create_dataset.py
      python train_model.py
      python app.py
