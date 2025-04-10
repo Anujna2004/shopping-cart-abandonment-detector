@@ -9,7 +9,7 @@ Built with:
 - HTML/CSS
 Set Up Your Environment:
 -  Make sure Python 3.x is installed. Then, install the required libraries:
-  pip install pandas scikit-learn flask matplotlib
+    pip install pandas scikit-learn flask matplotlib
 commands:
      python create_dataset.py
      python train_model.py
